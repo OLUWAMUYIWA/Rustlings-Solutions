@@ -1,3 +1,5 @@
+Although the solutions are complete, the purpose of this repo ahs not been achieved. My goal is to annotate the code well enough to help any new Rust developer looking for help.
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter |
